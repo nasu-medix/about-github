@@ -3,15 +3,13 @@ Githubを使ってワークフローを改善しよう
 
 ---
 
-<div class="hoge">
-
 # Hello
 ## Hello
 ### Hello
 #### Hello
 ##### Hello
 
-</div>
+---
 
 ### Agenda
 
@@ -84,5 +82,3 @@ Github Desktop
 ---
 
 ## ありがとうございました
-
-
