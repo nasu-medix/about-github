@@ -54,15 +54,15 @@
 .reveal.slide.center.ready > div.backgrounds > div:nth-child(1){
 }
 
-.reveal.slide.center.ready > div.backgrounds > div:nth-child(2){
+.reveal > div.backgrounds > div:nth-child(2){
   background-color: red;
 }
 
-.reveal.slide.center.ready > div.backgrounds > div:nth-child(3){
+.reveal > .backgrounds > div:nth-child(3){
   background: radial-gradient(center, circle cover, #f7fbfc 0%, #0084ff 100%);
 }
 
-.reveal.slide.center.ready > div.backgrounds > div:nth-child(4){
+.backgrounds > div:nth-child(4){
   background: radial-gradient(center, circle cover, #f7fbfc 0%, #e51400 100%);
 }
 
@@ -70,11 +70,11 @@
   background: radial-gradient(center, circle cover, #f7fbfc 0%, #f0a30a 100%);
 }
 
-.reveal.slide.center.ready > div.backgrounds > div:nth-child(6){
+.reveal.convex.center.ready > div.backgrounds > div:nth-child(6){
   background: radial-gradient(center, circle cover, #f7fbfc 0%, #aa00ff 100%);
 }
 
-.reveal.slide.center.ready > div.backgrounds > div:nth-child(7){
+.reveal > .backgrounds > div:nth-child(7){
   background-color: blue;
 }
 
