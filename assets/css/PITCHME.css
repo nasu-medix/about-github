@@ -58,23 +58,19 @@
 }
 
 .reveal > .backgrounds > div:nth-child(3){
-  background: radial-gradient(center, circle cover, #f7fbfc 0%, #0084ff 100%);
-  background: -webkit-radial-gradient(center, circle cover, #f7fbfc 0%, #0084ff 100%);
+  background-color: #0084ff
 }
 
 .backgrounds > div:nth-child(4){
-  background: radial-gradient(center, circle cover, #f7fbfc 0%, #e51400 100%);
-  background: -webkit-radial-gradient(center, circle cover, #f7fbfc 0%, #e51400 100%);
+  background-color: #e51400
 }
 
 .reveal.slide.center.ready > div.backgrounds > div:nth-child(5){
-  background: radial-gradient(center, circle cover, #f7fbfc 0%, #f0a30a 100%);
-  background: -webkit-radial-gradient(center, circle cover, #f7fbfc 0%, #f0a30a 100%);
+  background-color: #f0a30a
 }
 
 .reveal.convex.center.ready > div.backgrounds > div:nth-child(6){
-  background: radial-gradient(center, circle cover, #f7fbfc 0%, #aa00ff 100%);
-  background: -webkit-radial-gradient(center, circle cover, #f7fbfc 0%, #aa00ff 100%);
+  background-color: #aa00ff
 }
 
 .reveal > .backgrounds > div:nth-child(7){
