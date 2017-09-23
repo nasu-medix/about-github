@@ -128,6 +128,7 @@
  color: #fff;
 }
 .reveal > .slides > section:nth-child(11) ul li{
+  color: #fff;
  list-style: none;
  font-size: 2.4em;
 }
