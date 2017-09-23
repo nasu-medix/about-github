@@ -1,5 +1,5 @@
 ---?image=assets/images/github00.jpg
-<h1 class="fc_white bold">Githubを使って<br>ワークフローを<br>進化させよう</h1>
+<h1 class="fc_white bold ta_center">Githubを使って<br>ワークフローを<br>進化させよう</h1>
 
 <div class="fc_white ta_center">
 企画制作部<br>
@@ -55,7 +55,7 @@
 
 ---
 
-##### →共有ドライブのファイルを間違えてファイルを上書きしてしまった
+##### →共有ドライブのファイルを間違えて上書きしてしまった
 
 - 自分が編集したファイルのみ自動で更新してくれます (＾ω＾) |
 
