@@ -1,6 +1,6 @@
 theme-override : assets/css/PITCHME.css
 
-# theme : sky
+theme : sky
 
 footnote : "© 2017 sample Inc."
 

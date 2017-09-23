@@ -1,9 +1,13 @@
 .reveal{
  font-size: 1.6rem;
  font-weight: 400;
- font-family: "Noto Sans CJK JP","メイリオ","HiraginoKaku","Hiragino Kaku Gothic Pro","ヒラギノ角ゴ Pro W3",YuGothic,"Yu Gothic","游ゴシック", Osaka,"ＭＳ Ｐゴシック" ,sans-serif;
+ font-family: "Noto Sans CJK JP","メイリオ","HiraginoKaku","Hiragino Kaku Gothic Pro","ヒラギノ角ゴ Pro W3";
  word-break: normal;
  word-wrap: break-word;
+}
+
+.reveal .noto{
+  font-family: "Noto Sans CJK JP";
 }
 
 .reveal h1,
@@ -22,6 +26,10 @@
 .reveal .slides section>* {
     margin-left: 0;
     margin-right: 0;
+}
+
+.reveal ul li{
+  white-space: nowrap;
 }
 
 .reveal.slide.center.ready > div.backgrounds > div:nth-child(1){
