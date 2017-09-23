@@ -59,22 +59,22 @@
 
 .reveal > .backgrounds > div:nth-child(3){
   background: radial-gradient(center, circle cover, #f7fbfc 0%, #0084ff 100%);
- background: -webkit-gradient(radial, center center, 0px, center center, 100%, color-stop(0%, #f7fbfc), color-stop(100%, #0084ff));
+  background: -webkit-radial-gradient(center, circle cover, #f7fbfc 0%, #0084ff 100%);
 }
 
 .backgrounds > div:nth-child(4){
   background: radial-gradient(center, circle cover, #f7fbfc 0%, #e51400 100%);
-  background: -webkit-gradient(radial, center center, 0px, center center, 100%, color-stop(0%, #f7fbfc), color-stop(100%, #e51400));
+  background: -webkit-radial-gradient(center, circle cover, #f7fbfc 0%, #e51400 100%);
 }
 
 .reveal.slide.center.ready > div.backgrounds > div:nth-child(5){
   background: radial-gradient(center, circle cover, #f7fbfc 0%, #f0a30a 100%);
-  background: -webkit-gradient(radial, center center, 0px, center center, 100%, color-stop(0%, #f7fbfc), color-stop(100%, #f0a30a));
+  background: -webkit-radial-gradient(center, circle cover, #f7fbfc 0%, #f0a30a 100%);
 }
 
 .reveal.convex.center.ready > div.backgrounds > div:nth-child(6){
   background: radial-gradient(center, circle cover, #f7fbfc 0%, #aa00ff 100%);
-  background: -webkit-gradient(radial, center center, 0px, center center, 100%, color-stop(0%, #f7fbfc), color-stop(100%, #aa00ff));
+  background: -webkit-radial-gradient(center, circle cover, #f7fbfc 0%, #aa00ff 100%);
 }
 
 .reveal > .backgrounds > div:nth-child(7){
