@@ -85,7 +85,6 @@
   background-color: #f0a30a
 }
 .reveal > .backgrounds > div:nth-child(12){
-  background-color: #f0a30a
 }
 .reveal > .backgrounds > div:nth-child(13){
 }
@@ -119,7 +118,15 @@
 .reveal > .backgrounds > div:nth-child(26){
   background-color: #aa00ff
 }
-
+.reveal > .slides > section:nth-child(8) ul li{
+ color: #fff;
+}
+.reveal > .slides > section:nth-child(9) ul li{
+ color: #fff;
+}
+.reveal > .slides > section:nth-child(10) ul li{
+ color: #fff;
+}
 .reveal > .slides > section:nth-child(11) ul li{
  list-style: none;
  font-size: 2.4em;
