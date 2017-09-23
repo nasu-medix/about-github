@@ -6,4 +6,4 @@ slide-number: true
 
 transition : convex
 
-logo : assets/images/octocat01.png
+# logo : assets/images/octocat01.png
