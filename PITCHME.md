@@ -84,7 +84,7 @@ Githubを使ってワークフローを改善しよう
 ---
 
 ### Github Desktop
-![github04](assets/images/github04.jpg)
+![github04](assets/images/github04.png)
 
 [https://desktop.github.com/](https://desktop.github.com/)
 
@@ -95,15 +95,15 @@ Githubでアカウントを作りログインしてリポジトリを作りま�
 ---
 
 作ったリポジトリをローカルにクローンします
-![github01](assets/images/github01.jpg)
+![github01](assets/images/github01.png)
 
 ---
 
-![github02](assets/images/github02.jpg)
+![github02](assets/images/github02.png)
 
 ---
 
-![github03](assets/images/github03.jpg)
+![github03](assets/images/github03.png)
 
 ---
 
@@ -118,7 +118,7 @@ Githubでアカウントを作りログインしてリポジトリを作りま�
 
 
 ここまでの流れ
-![iterm2_2](assets/images/github05.jpg)
+![iterm2_2](assets/images/github05.png)
 
 ---
 
