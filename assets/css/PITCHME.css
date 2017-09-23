@@ -51,10 +51,10 @@
   white-space: nowrap;
 }
 
-.reveal.slide.center.ready > div.backgrounds > div:nth-child(1){
+.reveal > .backgrounds > div:nth-child(1){
 }
 
-.reveal > div.backgrounds > div:nth-child(2){
+.reveal > .backgrounds > div:nth-child(2){
 }
 
 .reveal > .backgrounds > div:nth-child(3){
@@ -65,16 +65,21 @@
   background-color: #e51400
 }
 
-.reveal.slide.center.ready > div.backgrounds > div:nth-child(5){
+.reveal > .backgrounds > div:nth-child(5){
   background-color: #f0a30a
 }
 
-.reveal.convex.center.ready > div.backgrounds > div:nth-child(6){
+.reveal > .backgrounds > div:nth-child(6){
   background-color: #aa00ff
 }
 
 .reveal > .backgrounds > div:nth-child(7){
 }
 
-.reveal.slide.center.ready > div.backgrounds > div:nth-child(8){
+.reveal > .backgrounds > div:nth-child(8){
+}
+
+.reveal > .slides > section:nth-child(25) ul li{
+ list-style: none;
+ font-size: 3em;
 }
