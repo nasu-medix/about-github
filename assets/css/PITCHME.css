@@ -1,14 +1,11 @@
-html {
-  overflow-y: scroll;
-  font-size:62.5%;
+.reveal{
+ font-size: 1.6rem;
+ font-weight: 400;
+ font-family: "Noto Sans CJK JP","メイリオ","HiraginoKaku","Hiragino Kaku Gothic Pro","ヒラギノ角ゴ Pro W3",YuGothic,"Yu Gothic","游ゴシック", Osaka,"ＭＳ Ｐゴシック" ,sans-serif;
+ word-break: normal;
+ word-wrap: break-word;
 }
-body {
-  font-size: 1.6rem;
-  font-weight: 400;
-  font-family: "Noto Sans CJK JP","メイリオ","HiraginoKaku","Hiragino Kaku Gothic Pro","ヒラギノ角ゴ Pro W3",YuGothic,"Yu Gothic","游ゴシック", Osaka,"ＭＳ Ｐゴシック" ,sans-serif;
-  word-break: normal;
-  word-wrap: break-word;
-}
+
 .reveal h1,
 .reveal h2,
 .reveal h3,
@@ -16,13 +13,7 @@ body {
 .reveal h5,
 .reveal h6 {
   text-transform: none;
-}
-
-.reveal h1 > strong {
-  color: #EA3046;
-}
-.reveal h2 > strong {
-  color: #EA3046;
+  white-space: nowrap;
 }
 
 .reveal .slides {
@@ -33,6 +24,26 @@ body {
     margin-right: 0;
 }
 
+.reveal.slide.center.ready > div.backgrounds > div:nth-child(1){
+}
+
 .reveal.slide.center.ready > div.backgrounds > div:nth-child(2){
- background-color: red;
+}
+
+.reveal.slide.center.ready > div.backgrounds > div:nth-child(3){
+}
+
+.reveal.slide.center.ready > div.backgrounds > div:nth-child(4){
+}
+
+.reveal.slide.center.ready > div.backgrounds > div:nth-child(5){
+}
+
+.reveal.slide.center.ready > div.backgrounds > div:nth-child(6){
+}
+
+.reveal.slide.center.ready > div.backgrounds > div:nth-child(7){
+}
+
+.reveal.slide.center.ready > div.backgrounds > div:nth-child(8){
 }
