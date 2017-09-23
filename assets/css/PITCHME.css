@@ -9,6 +9,13 @@
 .reveal .noto{
   font-family: "Noto Sans CJK JP";
 }
+.reveal .fc_white{
+  color: #fff;
+}
+
+.reveal .ta_center{
+  text-align: center;
+}
 
 .reveal h1,
 .reveal h2,
