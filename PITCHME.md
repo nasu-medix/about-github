@@ -13,11 +13,11 @@
 - 「Githubってそもそもなに??」
 - 「Githubってどうやって使うの???」
 
----
+---?image=assets/images/wg_stained_canvas_backgrounds_3.jpg
 
 ## 「Githubってそもそもなに??」
 
----
+---?image=assets/images/wg_stained_canvas_backgrounds_3.jpg
 
 例えばこんなことありませんか?
 
@@ -27,25 +27,25 @@
 - どれが最新ファイルなのかわからない (￣-￣；) |
 - 誰が、どのような目的で修正したのかわからない (￣-￣；) |
 
----
+---?image=assets/images/wg_stained_canvas_backgrounds_3.jpg
 
 ### 共有ドライブのファイルを間違えて<br>ファイルを上書きしてしまった
 
 - 同じ名前のファイルが複数存在する(index.htmlとか) (；≧д≦) |
 - 一度上書きしたら元にもどせない (；≧д≦) |
 
----
+---?image=assets/images/wg_stained_canvas_backgrounds_3.jpg
 
 ### ファイルを上書きしたら実は別の人が先に更新していた
 
 - 普段ローカルにダウンロードしファイルを修正している |
 - アップロードのたびに更新されてないか確認するのは手間だ |
 
----
+---?image=assets/images/the-capsule.jpg
 
 ## 「それGithubで解決できます!!」
 
----
+---?image=assets/images/grey-connection.jpg
 
 ##### 仕様書を更新するたびに共有ドライブにバックアップファイルを残す
 
@@ -53,13 +53,13 @@
   - しかも差分も簡単に確認できます ヽ(ﾟ∀ﾟ)ﾉ |
   - 誰が何の目的で変更したのかの記録も残せます ヽ(ﾟ∀ﾟ)ﾉ |
 
----
+---?image=assets/images/grey-connection.jpg
 
 ##### 共有ドライブのファイルを間違えてファイルを上書きしてしまった
 
 - 自分が編集したファイルのみ自動で更新してくれます (＾ω＾) |
 
----
+---?image=assets/images/grey-connection.jpg
 
 ##### ファイルを上書きしたら実は別の人が先に更新していた
 
@@ -67,9 +67,10 @@
 - 差分ファイルのみ自動で取り込んでくれます (｡>∀<｡) |
   - どのファイルに差分があるかを探さなくてもいい! (｡>∀<｡)
 
----
+---?image=assets/images/grey-connection.jpg
 
 ## その結果
+
 - 他の作業者に影響を与えずに、<br>自分の作業分を進めることができます |
 - お互いの考えている経過が見えるようになる |
 - 実物をみながら議論できる |
@@ -135,7 +136,7 @@ Githubでアカウントを作りログインしてリポジトリを作りま�
 
 ここまでが一連の流れにになります
 
----
+---?image=assets/images/wg_stained_canvas_backgrounds_9.jpg
 
 ### その他の使い方
 
@@ -143,24 +144,24 @@ Githubでアカウントを作りログインしてリポジトリを作りま�
 - プロダクト改善のアイデア出し
 -
 
----
+---?image=assets/images/wg_stained_canvas_backgrounds_9.jpg
 
 ## 注意点
 
----
+---?image=assets/images/wg_stained_canvas_backgrounds_9.jpg
 
 - リポジトリサイズは1GB以下を推奨 |
 - 1ファイルのサイズ上限は100MB |
 - wordやexcelなどのoffice製品は差分も見ることは不可 |
 
----
+---?image=assets/images/wg_stained_canvas_backgrounds_9.jpg
 
 ### まとめ
 
 #### Githubは難しくありません。<br>まずはGithub Desktopを使ってドキュメントを管理しましよう
 #### 何か不明点があればいつでも声をかけて下さい
 
----
+---?image=assets/images/github00.jpg
 
 ## ご静聴ありがとうございました
 - 誰が、どのような目的で修正したのかわからない |
