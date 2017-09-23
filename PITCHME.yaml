@@ -2,10 +2,8 @@ theme-override : assets/css/PITCHME.css
 
 theme : sky
 
-footnote : "© 2017 sample Inc."
-
 slide-number: true
 
 transition : convex
 
-logo : assets/css/octocat01.png
+logo : assets/images/octocat01.png
