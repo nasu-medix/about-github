@@ -13,8 +13,20 @@
   color: #fff;
 }
 
+.reveal .fs_3{
+  font-size: 3em;
+}
+
+.reveal .bold{
+  font-weight: 900;
+}
+
 .reveal .ta_center{
   text-align: center;
+}
+
+.reveal .ls_none{
+  list-style-type: none;
 }
 
 .reveal h1,
@@ -46,15 +58,19 @@
 }
 
 .reveal.slide.center.ready > div.backgrounds > div:nth-child(3){
+  background: radial-gradient(center, circle cover, #f7fbfc 0%, #0084ff 100%);
 }
 
 .reveal.slide.center.ready > div.backgrounds > div:nth-child(4){
+  background: radial-gradient(center, circle cover, #f7fbfc 0%, #e51400 100%);
 }
 
 .reveal.slide.center.ready > div.backgrounds > div:nth-child(5){
+  background: radial-gradient(center, circle cover, #f7fbfc 0%, #f0a30a 100%);
 }
 
 .reveal.slide.center.ready > div.backgrounds > div:nth-child(6){
+  background: radial-gradient(center, circle cover, #f7fbfc 0%, #aa00ff 100%);
 }
 
 .reveal.slide.center.ready > div.backgrounds > div:nth-child(7){
