@@ -37,6 +37,7 @@
 .reveal h6 {
   text-transform: none;
   white-space: nowrap;
+  font-family: "Noto Sans CJK JP";
 }
 
 .reveal .slides {
@@ -56,30 +57,75 @@
 
 .reveal > .backgrounds > div:nth-child(2){
 }
-
 .reveal > .backgrounds > div:nth-child(3){
   background-color: #0084ff
 }
-
 .backgrounds > div:nth-child(4){
-  background-color: #e51400
+  background-color: #0084ff
 }
-
 .reveal > .backgrounds > div:nth-child(5){
+  background-color: #0084ff
+}
+.reveal > .backgrounds > div:nth-child(6){
+  background-color: #0084ff
+}
+.reveal > .backgrounds > div:nth-child(7){
   background-color: #f0a30a
 }
-
-.reveal > .backgrounds > div:nth-child(6){
+.reveal > .backgrounds > div:nth-child(8){
+  background-color: #f0a30a
+}
+.reveal > .backgrounds > div:nth-child(9){
+  background-color: #f0a30a
+}
+.reveal > .backgrounds > div:nth-child(10){
+  background-color: #f0a30a
+}
+.reveal > .backgrounds > div:nth-child(11){
+  background-color: #f0a30a
+}
+.reveal > .backgrounds > div:nth-child(12){
+  background-color: #f0a30a
+}
+.reveal > .backgrounds > div:nth-child(13){
+}
+.reveal > .backgrounds > div:nth-child(14){
+}
+.reveal > .backgrounds > div:nth-child(15){
+}
+.reveal > .backgrounds > div:nth-child(16){
+}
+.reveal > .backgrounds > div:nth-child(17){
+}
+.reveal > .backgrounds > div:nth-child(18){
+}
+.reveal > .backgrounds > div:nth-child(19){
+}
+.reveal > .backgrounds > div:nth-child(20){
+}
+.reveal > .backgrounds > div:nth-child(21){
+}
+.reveal > .backgrounds > div:nth-child(22){
+}
+.reveal > .backgrounds > div:nth-child(23){
+  background-color: #aa00ff
+}
+.reveal > .backgrounds > div:nth-child(24){
+  background-color: #aa00ff
+}
+.reveal > .backgrounds > div:nth-child(25){
+  background-color: #aa00ff
+}
+.reveal > .backgrounds > div:nth-child(26){
   background-color: #aa00ff
 }
 
-.reveal > .backgrounds > div:nth-child(7){
-}
-
-.reveal > .backgrounds > div:nth-child(8){
+.reveal > .slides > section:nth-child(11) ul li{
+ list-style: none;
+ font-size: 2.4em;
 }
 
 .reveal > .slides > section:nth-child(25) ul li{
  list-style: none;
- font-size: 3em;
+ font-size: 2.4em;
 }
