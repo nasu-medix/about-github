@@ -107,16 +107,23 @@
 .reveal > .backgrounds > div:nth-child(22){
 }
 .reveal > .backgrounds > div:nth-child(23){
-  background-color: #aa00ff
 }
 .reveal > .backgrounds > div:nth-child(24){
-  background-color: #aa00ff
 }
 .reveal > .backgrounds > div:nth-child(25){
-  background-color: #aa00ff
 }
 .reveal > .backgrounds > div:nth-child(26){
   background-color: #aa00ff
+}
+.reveal > .backgrounds > div:nth-child(27){
+ background-color: #aa00ff
+}
+.reveal > .backgrounds > div:nth-child(28){
+ background-color: #aa00ff
+}
+.reveal > .backgrounds > div:nth-child(29){
+}
+.reveal > .backgrounds > div:nth-child(22){
 }
 .reveal > .slides > section:nth-child(8) ul li{
  color: #fff;
@@ -128,11 +135,16 @@
  color: #fff;
 }
 .reveal > .slides > section:nth-child(11) ul li{
-  color: #fff;
+ color: #fff;
  list-style: none;
  font-size: 2.4em;
 }
-.reveal > .slides > section:nth-child(25) ul li{
+.reveal > .slides > section:nth-child(22) ul li{
+ color: #fff;
+ list-style: none;
+ font-size: 2.4em;
+}
+.reveal > .slides > section:nth-child(27) ul li{
  list-style: none;
  font-size: 2.4em;
 }
