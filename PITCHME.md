@@ -155,7 +155,7 @@ Githubでアカウントを作りログインしてリポジトリを作りま�
 
 そしてまたファイルを更新したらプッシュします
 
-![github08](assets/images/github08.png)
+![github13](assets/images/github13.png)
 
 ### これが一連の流れになります
 
