@@ -26,6 +26,7 @@
 - バックアップファイルがどんどん増える (^_^;) |
 - どれが最新ファイルなのかわからない (^_^;) |
 - 誰が、どのような目的で修正したのかわからない (^_^;) |
+- ![github07](assets/images/github07.png)
 
 ---
 
@@ -97,6 +98,8 @@
 
 Githubでアカウントを作りログインしてリポジトリを作ります
 
+![github09](assets/images/github09.png)
+
 ---
 
 作ったリポジトリをローカルにクローンします
@@ -114,6 +117,8 @@ Githubでアカウントを作りログインしてリポジトリを作りま�
 
 ローカルでファイルを編集したらコミットします
 
+![github11](assets/images/github11.png)
+
 ---
 
 それをGithubにプッシュします<br>
@@ -126,29 +131,30 @@ Githubでアカウントを作りログインしてリポジトリを作りま�
 
 ここまでの流れ
 
-![iterm2_2](assets/images/github05.png)
+![github05](assets/images/github05.png)
 
 ---
 
 他の人は更新されたファイルを取り込みます
 
-![iterm2_2](assets/images/github05.png)
+![github08](assets/images/github08.png)
 
-ここまでが一連の流れにになります
+そしてまたファイルを更新してプッシュします<br>
+
+### ここまでが一連の流れにになります
 
 ---
 
 <h3 class="fc_white">その他の使い方</h3>
 
 - 自作のsassやjsのコード置き場
+- タスク管理やドキュメント管理
 - プロダクト改善のアイデア出し
 - ちなみにこのスライドもGithubで管理しています
 
 ---
 
 <h2 class="fc_white bold">注意点</h2>
-
----
 
 - リポジトリサイズは1GB以下(推奨) |
 - 1ファイルのサイズ上限は100MB |
@@ -159,9 +165,9 @@ Githubでアカウントを作りログインしてリポジトリを作りま�
 <h2 class="fc_white bold">まとめ</h2>
 
 ### Githubは難しくありません。<br>まずはGithub Desktopを使ってドキュメントを管理しましよう
+### プロジェクト管理ツールとしても使えます
 ### 何か不明点があればいつでも声をかけて下さい
 
 ---?image=assets/images/github00.jpg
 
 <h1 class="fc_white bold">ありがとうございました</h1>
-
