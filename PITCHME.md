@@ -99,7 +99,8 @@
 
 Githubでアカウントを作りログインしてリポジトリを作ります
 
-![github09](assets/images/github09.png)
+- ![github09](assets/images/github09.png)
+- ![github10](assets/images/github10.png)
 
 ---
 
