@@ -141,6 +141,18 @@ Githubでアカウントを作りログインしてリポジトリを作りま�
 - 編集したファイルのみ自動で更新されます |
 - すでに他の人が更新していた場合は<br>差分を取り込むまでプッシュできません |
 
+---?image=assets/images/icarus.png
+
+<p class="fc_white">プッシュしようとすると以下の画面が表示されます</p>
+
+![github16](assets/images/github16.png)
+
+---?image=assets/images/icarus.png
+
+<p class="fc_white">この場合、先にファイルを取り込む必要があります</p>
+
+![github17](assets/images/github17.png)
+
 ---
 
 ここまでの流れ
