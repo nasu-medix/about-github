@@ -61,23 +61,31 @@
 
 ##### →仕様書を更新するたびに共有ドライブにバックアップファイルを残す
 
-  - ファイルの更新履歴をGithubが管理してくれます ( ^ω^ ) |
-  - しかも差分も簡単に確認できます ( ^ω^ ) |
-  - 誰が何の目的で変更したのかの記録も残せます ( ^ω^ ) |
+<ul>
+<li class="fragment visible" data-fragment-index="0">ファイルの更新履歴をGithubが管理してくれます<i class="em em-smile"></i>  <!-- --></li>
+<li class="fragment visible" data-fragment-index="1">しかも差分も簡単に確認できます<i class="em em-smile"></i>  <!-- --></li>
+<li class="fragment visible current-fragment" data-fragment-index="2">誰が何の目的で変更したのかの記録も残せます<i class="em em-smile"></i>  <!-- --></li>
+</ul>
 
 ---
 
 ##### →共有ドライブのファイルを間違えて上書きしてしまった
 
-- 自分が編集したファイルのみ自動で更新してくれます (＾ω＾) |
+<ul>
+<li class="fragment visible current-fragment" data-fragment-index="0">自分が編集したファイルのみ自動で更新してくれます<i class="em em-smiley"></i> <!-- --></li>
+</ul>
 
 ---
 
 ##### →ファイルを上書きしたら実は別の人が先に更新していた
 
-- 他の人が編集した場合、差分を取り込むまで上書きできない仕組みです |
-- 差分ファイルのみ自動で取り込んでくれます |
-  - どのファイルに差分があるかを探さなくてもいい!
+<ul>
+<li class="fragment visible" data-fragment-index="0">他の人が編集した場合、差分を取り込むまで上書きできない仕組みです<i class="em em-blush"></i>  <!-- --></li>
+<li class="fragment visible current-fragment" data-fragment-index="1">差分ファイルのみ自動で取り込んでくれます<i class="em em-blush"></i>  <!-- --><ul>
+<li>どのファイルに差分があるかを探さなくてもいい<i class="em em-blush"></i>!</li>
+</ul>
+</li>
+</ul>
 
 ---
 
