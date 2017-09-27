@@ -55,9 +55,13 @@
 
 ##### →仕様書を更新するたびに共有ドライブにバックアップファイルを残す
 
-- ファイルの更新履歴をGithubが管理してくれます<i class="em em-smile"></i> ( ^ω^ ) |
-  - しかも差分も簡単に確認できます ( ^ω^ ) |
-  - 誰が何の目的で変更したのかの記録も残せます ( ^ω^ ) |
+<ul>
+<li class="fragment visible" data-fragment-index="0">ファイルの更新履歴をGithubが管理してくれます<i class="em em-smile"></i>  <!-- --><ul>
+<li class="fragment visible" data-fragment-index="1">しかも差分も簡単に確認できます ( ^ω^ )  <!-- --></li>
+<li class="fragment visible current-fragment" data-fragment-index="2">誰が何の目的で変更したのかの記録も残せます ( ^ω^ )  <!-- --></li>
+</ul>
+</li>
+</ul>
 
 ---
 
