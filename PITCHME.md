@@ -23,9 +23,11 @@
 
 <h3 class="fc_white">仕様書を更新するたびに<br>バックアップファイルを共有ドライブに残す</h3>
 
-- バックアップファイルがどんどん増える (^_^;) |
-- どれが最新ファイルなのかわからない (^_^;) |
-- 誰が、どのような目的で修正したのかわからない (^_^;) |
+<ul>
+<li class="fragment visible" data-fragment-index="0">バックアップファイルがどんどん増える<i class="em em-cold_sweat"></i>  <!-- --></li>
+<li class="fragment visible" data-fragment-index="1">どれが最新ファイルなのかわからない<i class="em em-cold_sweat"></i>  <!-- --></li>
+<li class="fragment visible current-fragment" data-fragment-index="2">誰が、どのような目的で修正したのかわからない<i class="em em-cold_sweat"></i>  <!-- --></li>
+</ul>
 
 ![github07](assets/images/github07.png)
 
@@ -33,8 +35,10 @@
 
 <h3 class="fc_white">共有ドライブのファイルを間違えて<br>上書きしてしまった</h3>
 
-- 同じ名前のファイルが複数存在する(index.htmlとか) (￣O￣;) |
-- 一度上書きしたら元にもどせない (￣O￣;) |
+<ul>
+<li class="fragment visible" data-fragment-index="0">同じ名前のファイルが複数存在する(index.htmlとか)<i class="em em-confounded"></i>  <!-- --></li>
+<li class="fragment visible current-fragment" data-fragment-index="1">一度上書きしたら元にもどせない<i class="em em-confounded"></i>  <!-- --></li>
+</ul>
 
 ![github14](assets/images/github14.jpg)
 
@@ -42,8 +46,10 @@
 
 <h3 class="fc_white">ファイルを上書きしたら実は別の人が先に更新していた</h3>
 
-- 普段ローカルにダウンロードしファイルを修正している |
-- アップロードのたびに更新されてないか確認するのは手間だ |
+<ul>
+<li class="fragment visible" data-fragment-index="0">普段ローカルにダウンロードしファイルを修正している<i class="em em-dizzy_face"></i>  <!-- --></li>
+<li class="fragment visible current-fragment" data-fragment-index="1">アップロードのたびに更新されてないか確認するのは手間だ<i class="em em-dizzy_face"></i>  <!-- --></li>
+</ul>
 
 ![github15](assets/images/github15.png)
 
@@ -55,7 +61,7 @@
 
 ##### →仕様書を更新するたびに共有ドライブにバックアップファイルを残す
 
-  - <i class="em em-smile"></i>ファイルの更新履歴をGithubが管理してくれます ( ^ω^ ) |
+  - ファイルの更新履歴をGithubが管理してくれます ( ^ω^ ) |
   - しかも差分も簡単に確認できます ( ^ω^ ) |
   - 誰が何の目的で変更したのかの記録も残せます ( ^ω^ ) |
 
