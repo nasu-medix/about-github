@@ -167,23 +167,23 @@ Githubでアカウントを作りログインしてリポジトリを作りま�
 
 ![github17](assets/images/github17.png)
 
----
+---?image=assets/images/icarus.png
 
-他の人は更新されたファイルを取り込みます
+<p class="fc_white">他の人は更新されたファイルを取り込みます</p>
 
 ![github08](assets/images/github08.png)
 
----
+---?image=assets/images/icarus.png
 
-そしてまたファイルを更新したらコミットしてプッシュします
+<p class="fc_white">そしてまたファイルを更新したらコミットしてプッシュします</p>
 
 ![github13](assets/images/github13.png)
 
-### これが一連の流れになります
+<h3 class="fc_white bold">これが一連の流れになります</h3>
 
 ---
 
-<h3 class="fc_white">その他の使い方</h3>
+<h2 class="fc_white bold">その他の使い方</h3>
 
 - 自作のsassやjsのコード置き場 |
 - タスク管理やドキュメント管理 |
